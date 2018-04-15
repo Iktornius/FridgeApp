@@ -1,11 +1,11 @@
 bagietka
 bazylia
-bia³e wino
+biaÅ‚e wino
 botwinka
-broku³
+brokuÅ‚
 bulion
-bu³ka
-bu³ka tarta
+buÅ‚ka
+buÅ‚ka tarta
 buraczki
 cebula
 chleb tostowy
@@ -14,66 +14,66 @@ cytryna
 czarne oliwki
 czosnek
 dynia
-fasola bia³a
+fasola biaÅ‚a
 fasolka szparagowa
 grzyby
 imbir
-jab³ko
+jabÅ‚ko
 jajko
 kalafior
 kapusta
-kapusta pekiñska
-karkówka
+kapusta pekiÅ„ska
+karkÃ³wka
 kasza
 ketchup
-kie³basa
+kieÅ‚basa
 kiszona kapusta
-kiszony ogórek
+kiszony ogÃ³rek
 koncentrat pomidorowy
 koperek
 kurczak
-³opatka wieprzowa
+Å‚opatka wieprzowa
 majonez
 makaron
 marchew
-mas³o
-mas³o orzechowe
-m¹ka
-m¹ka ziemniaczana
+masÅ‚o
+masÅ‚o orzechowe
+mÄ…ka
+mÄ…ka ziemniaczana
 mielona wieprzowina
-miêso mielone
+miÄ™so mielone
 mleko
 mozarella
 musztarda
 natka pietruszki
 ocet balsamiczny
-ocet ry¿owy
-ogórek
+ocet ryÅ¼owy
+ogÃ³rek
 olej kokosowy
-olej s³onecznikowy
+olej sÅ‚onecznikowy
 oliwa z oliwek
 papryczka chili
 papryka
 parmezan
 pesto
 pieczarki
-pierœ kurczaka
+pierÅ› kurczaka
 pietruszka
-polêdwica wieprzowa
-pomarañcz
+polÄ™dwica wieprzowa
+pomaraÅ„cz
 pomidor
 por
-powid³a œliwkowe
+powidÅ‚a Å›liwkowe
 przecier pomidorowy
-ry¿
+ryÅ¼
 seler
-ser bia³y
+ser biaÅ‚y
 ser feta
-ser ¿ó³ty
+ser Å¼Ã³Å‚ty
 serek topiony
 serek typu Philadelphia
-s³odka œmietanka
-s³onina
+sÅ‚odka Å›mietanka
+sÅ‚onina
 smalec
 soczewica
 sos sojowy
@@ -82,11 +82,11 @@ szczaw
 szczypiorek
 szpinak
 szyja indycza
-œmietana
-w¹tróbka
-wêdzony boczek
-wêdzony ³osoœ
+Å›mietana
+wÄ…trÃ³bka
+wÄ™dzony boczek
+wÄ™dzony Å‚osoÅ›
 wieprzowina
-wo³owina
+woÅ‚owina 
 ziemniaki
-¿eberka wieprzowe
+Å¼eberka wieprzowe
